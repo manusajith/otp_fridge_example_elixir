@@ -1,0 +1,2 @@
+defmodule OtpFridgeExample do
+end
